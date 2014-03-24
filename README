@@ -1,5 +1,3 @@
-$FreeBSD$
-
 A small tool to do the statistics legwork on benchmarks etc.
 
 Prepare your data into two files, one number per line
